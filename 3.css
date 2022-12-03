@@ -1,0 +1,22 @@
+﻿body {
+    background-image: url("img2/1.jpg");
+    background-size: 100% ;
+    background-attachment: fixed;
+ 
+}
+h2 {
+    color: rgb(239, 7, 54);
+}
+
+p {
+    color: aliceblue;
+}
+#number4{
+    color:#7d1c46;
+}
+#number5{
+    color:#11110d;
+}
+#number6{
+    color:#031a99;
+}

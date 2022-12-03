@@ -1,0 +1,16 @@
+﻿body{
+    background:url(img2/2.jpg);
+   background-size:100% ;
+}
+table tr:nth-child(odd) { /*even表示选择偶数项的子元素，odd表示选择奇数项的子元素*/
+    background: #f9b190;
+}
+#number7{
+    background:#ffffff;
+}
+.number8{
+    background:#ffffff;
+}
+.number9{
+    background:#ffffff;
+}
